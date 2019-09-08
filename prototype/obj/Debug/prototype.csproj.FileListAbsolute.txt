@@ -1,0 +1,63 @@
+c:\users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.exe.config
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.exe
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.pdb
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\MetroFramework.Design.dll
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\MetroFramework.dll
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.Cache
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.exe
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.pdb
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.csprojResolveAssemblyReference.cache
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.frmMain.resources
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\igco\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.test.resources
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\prototype.exe.config
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\prototype.exe
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\prototype.pdb
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\MetroFramework.Design.dll
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\MetroFramework.dll
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.csprojAssemblyReference.cache
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.frmMain.resources
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.test.resources
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.cache
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.csproj.CoreCompileInputs.cache
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.csproj.CopyComplete
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.exe
+C:\Users\igco\Documents\Visual Studio 2017\2015\Projects\prototype\prototype\obj\Debug\prototype.pdb
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\prototype.exe.config
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\prototype.exe
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\prototype.pdb
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\MetroFramework.Design.dll
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\MetroFramework.dll
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ABDO\Desktop\prototype\prototype\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.csprojAssemblyReference.cache
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.frmMain.resources
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.test.resources
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.cache
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.csproj.CoreCompileInputs.cache
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.csproj.CopyComplete
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.exe
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\prototype.pdb
+C:\Users\ABDO\Desktop\prototype\prototype\obj\Debug\Prototype2.Forms.FCards.resources
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.csprojAssemblyReference.cache
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.exe
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.pdb
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\prototype.exe.config
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\prototype.exe
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\prototype.pdb
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\MetroFramework.Design.dll
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\MetroFramework.dll
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\abdal\Desktop\prototype\prototype\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.frmMain.resources
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.test.resources
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.cache
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\prototype\prototype\obj\Debug\prototype.csproj.CopyComplete
